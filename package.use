@@ -24,3 +24,4 @@ media-fonts/terminus-font X ru-dv ru-i ru-k ru-g pcf-unicode-only
 sys-fs/cryptsetup -luks1-default kernel -openssl
 sys-fs/btrfs-progs -convert -zstd
 app-admin/sudo -sendmail
+x11-apps/xdm -ipv6
